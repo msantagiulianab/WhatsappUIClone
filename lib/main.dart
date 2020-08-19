@@ -122,7 +122,7 @@ class ChatsState extends State<Chats> {
                   ListTile(
                     leading: CircleAvatar(
                       backgroundImage: NetworkImage(
-                          'https://media-exp1.licdn.com/dms/image/C4D35AQGR399Kjn_eeg/profile-framedphoto-shrink_200_200/0?e=1597780800&v=beta&t=q7kjyIiib1m9JzS-uhecdFuUiKSbopWJ5hZhmgUzijY'),
+                          'https://cdn.pixabay.com/photo/2017/10/07/15/27/wolf-2826741_960_720.jpg'),
                     ),
                     title: Text(names[index]),
                     subtitle: Text(text[index]),
@@ -156,7 +156,7 @@ class StatusState extends State<Status> {
           ListTile(
             leading: CircleAvatar(
               backgroundImage: NetworkImage(
-                  'https://media-exp1.licdn.com/dms/image/C4D35AQGR399Kjn_eeg/profile-framedphoto-shrink_200_200/0?e=1597780800&v=beta&t=q7kjyIiib1m9JzS-uhecdFuUiKSbopWJ5hZhmgUzijY'),
+                  'https://cdn.pixabay.com/photo/2017/10/07/15/27/wolf-2826741_960_720.jpg'),
             ),
             title: Text('My status'),
             subtitle: Text('Tap to add status update'),
@@ -176,7 +176,7 @@ class StatusState extends State<Status> {
           ListTile(
             leading: CircleAvatar(
               backgroundImage: NetworkImage(
-                  'https://media-exp1.licdn.com/dms/image/C4D35AQGR399Kjn_eeg/profile-framedphoto-shrink_200_200/0?e=1597780800&v=beta&t=q7kjyIiib1m9JzS-uhecdFuUiKSbopWJ5hZhmgUzijY'),
+                  'https://cdn.pixabay.com/photo/2017/10/07/15/27/wolf-2826741_960_720.jpg'),
             ),
             title: Text('Beta'),
             subtitle: Text('Latest update'),
@@ -184,7 +184,7 @@ class StatusState extends State<Status> {
           ListTile(
             leading: CircleAvatar(
               backgroundImage: NetworkImage(
-                  'https://media-exp1.licdn.com/dms/image/C4D35AQGR399Kjn_eeg/profile-framedphoto-shrink_200_200/0?e=1597780800&v=beta&t=q7kjyIiib1m9JzS-uhecdFuUiKSbopWJ5hZhmgUzijY'),
+                  'https://cdn.pixabay.com/photo/2017/10/07/15/27/wolf-2826741_960_720.jpg'),
             ),
             title: Text('Alpha'),
             subtitle: Text('Latest update'),
@@ -192,7 +192,7 @@ class StatusState extends State<Status> {
           ListTile(
             leading: CircleAvatar(
               backgroundImage: NetworkImage(
-                  'https://media-exp1.licdn.com/dms/image/C4D35AQGR399Kjn_eeg/profile-framedphoto-shrink_200_200/0?e=1597780800&v=beta&t=q7kjyIiib1m9JzS-uhecdFuUiKSbopWJ5hZhmgUzijY'),
+                  'https://cdn.pixabay.com/photo/2017/10/07/15/27/wolf-2826741_960_720.jpg'),
             ),
             title: Text('Jane'),
             subtitle: Text('Latest update'),
@@ -200,7 +200,7 @@ class StatusState extends State<Status> {
           ListTile(
             leading: CircleAvatar(
               backgroundImage: NetworkImage(
-                  'https://media-exp1.licdn.com/dms/image/C4D35AQGR399Kjn_eeg/profile-framedphoto-shrink_200_200/0?e=1597780800&v=beta&t=q7kjyIiib1m9JzS-uhecdFuUiKSbopWJ5hZhmgUzijY'),
+                  'https://cdn.pixabay.com/photo/2017/10/07/15/27/wolf-2826741_960_720.jpg'),
             ),
             title: Text('Herbert'),
             subtitle: Text('Latest update'),
@@ -224,7 +224,7 @@ class CallsState extends State<Calls> {
         ListTile(
           leading: CircleAvatar(
             backgroundImage: NetworkImage(
-                'https://media-exp1.licdn.com/dms/image/C4D35AQGR399Kjn_eeg/profile-framedphoto-shrink_200_200/0?e=1597780800&v=beta&t=q7kjyIiib1m9JzS-uhecdFuUiKSbopWJ5hZhmgUzijY'),
+                'https://cdn.pixabay.com/photo/2017/10/07/15/27/wolf-2826741_960_720.jpg'),
           ),
           title: Text('Phillip'),
           subtitle: Row(
@@ -244,7 +244,7 @@ class CallsState extends State<Calls> {
         ListTile(
           leading: CircleAvatar(
             backgroundImage: NetworkImage(
-                'https://media-exp1.licdn.com/dms/image/C4D35AQGR399Kjn_eeg/profile-framedphoto-shrink_200_200/0?e=1597780800&v=beta&t=q7kjyIiib1m9JzS-uhecdFuUiKSbopWJ5hZhmgUzijY'),
+                'https://cdn.pixabay.com/photo/2017/10/07/15/27/wolf-2826741_960_720.jpg'),
           ),
           title: Text('Annabel'),
           subtitle: Row(
@@ -264,7 +264,7 @@ class CallsState extends State<Calls> {
         ListTile(
           leading: CircleAvatar(
             backgroundImage: NetworkImage(
-                'https://media-exp1.licdn.com/dms/image/C4D35AQGR399Kjn_eeg/profile-framedphoto-shrink_200_200/0?e=1597780800&v=beta&t=q7kjyIiib1m9JzS-uhecdFuUiKSbopWJ5hZhmgUzijY'),
+                'https://cdn.pixabay.com/photo/2017/10/07/15/27/wolf-2826741_960_720.jpg'),
           ),
           title: Text('Robert'),
           subtitle: Row(
@@ -284,7 +284,7 @@ class CallsState extends State<Calls> {
         ListTile(
           leading: CircleAvatar(
             backgroundImage: NetworkImage(
-                'https://media-exp1.licdn.com/dms/image/C4D35AQGR399Kjn_eeg/profile-framedphoto-shrink_200_200/0?e=1597780800&v=beta&t=q7kjyIiib1m9JzS-uhecdFuUiKSbopWJ5hZhmgUzijY'),
+                'https://cdn.pixabay.com/photo/2017/10/07/15/27/wolf-2826741_960_720.jpg'),
           ),
           title: Text('Jack'),
           subtitle: Row(
